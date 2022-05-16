@@ -1,5 +1,6 @@
 # 3D Object Reconstruction Based on 2D Images
 In this project, I reconstructed 3D objects from stereoscopic image pairs using triangulation and the eight-point algorithm. More specifically, I derived the depth of each point on the object by computing the essential matrix and fundamental matrix. These are then used to reconstruct the 3D point cloud that shows the object from different angles.
+Since this is a class assignment, my code is not published on GitHub.
 
 For this task, two slightly different images are given as input. They are taken from different angles.
 
