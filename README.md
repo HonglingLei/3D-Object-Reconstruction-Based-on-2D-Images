@@ -7,6 +7,12 @@ For this task, two slightly different images are given as input. They are taken 
 <img src="https://github.com/HonglingLei/3D-Object-Reconstruction-Based-on-2D-Images/blob/main/data/im2.png" height="200" />
 
 
+## Proof about mirror reflection
+Suppose that a camera views an object and its reflection in a plane mirror. It can be proven that this situation is equivalent to having two images of the object which are related by a skew-symmetric fundamental matrix. Proof is as below.
+
+<img src="https://github.com/HonglingLei/3D-Object-Reconstruction-Based-on-2D-Images/blob/main/data/mirror_problem.png" height="600" />
+
+
 ## Formula Derivation: the Eight-Point Algorithm
 Aw = 0, where A is a 4x4 matrix and w is a 4x1 vector of the 3D coordinates in the homogeneous form.
 
